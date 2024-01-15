@@ -4,11 +4,10 @@
 
    
    <ul>
-      <li>🥅 2022 Goals: improve web development skills</li>
+      <li>🥅 2024 Goals: improve web development skills</li>
       <li>💞️ I’m looking to collaborate with stimulating work environment</li>
-      <li>🌱 I'm currently learning Spring, SpringBoot, JPA, Hibernate</li>
+      <li>🌱 I'm currently learning Spring, SpringBoot</li>
       <li>🤸 I’m interested in gym and cycling</li>
-      <li>📫 You can reach me: luigiverde97@gmail.com</li>
    </ul>
    
    <hr>
